@@ -1,6 +1,6 @@
 #include <iostream>
 
-float g();
+float f();
 
 int main()
 {
