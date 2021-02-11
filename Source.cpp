@@ -1,5 +1,6 @@
 #include <iostream>
 
+float g();
 
 int main()
 {
